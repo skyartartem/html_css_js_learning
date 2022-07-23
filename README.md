@@ -1,2 +1,2 @@
-# html_css_js_lerning
+# html_css_js_learning
 Тренеровочный репозиторий
